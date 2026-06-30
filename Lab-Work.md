@@ -16,27 +16,37 @@
 
 ### Case Study 1: Trợ giảng AI Jill Watson (Georgia Tech)
 
-| Tiêu chí | Nội dung chi tiết |
+| Field | Nội dung |
 | :--- | :--- |
-| **AI được dùng để làm gì?** | Tự động hóa việc giải đáp các câu hỏi thường gặp của sinh viên trong khóa học trực tuyến. |
-| **Chuyện gì đã xảy ra?** | Triển khai hệ thống AI làm trợ giảng cho lớp học 300 sinh viên, hoạt động 24/7. |
-| **Ai bị ảnh hưởng?** | Sinh viên và giảng viên đại học. |
-| **Số liệu** | Hệ thống đạt tỷ lệ chính xác 97%, xử lý 10.000 câu hỏi mỗi học kỳ. |
-| **Đủ dữ kiện để điền worksheet?** | Có, đây là mô hình thành công về tối ưu hóa vận hành. |
-| **Nguồn uy tín** | [Georgia Tech Research](https://research.gatech.edu/georgia-techs-jill-watson-outperforms-chatgpt-real-classrooms); [arXiv Paper](https://arxiv.org/html/2405.11070v1). |
-
+| **Tên case** | Jill Watson (Georgia Tech) |
+| **Ngành** | Giáo dục |
+| **Tổ chức / sản phẩm** | Đại học Georgia Tech |
+| **Use case AI** | Trợ giảng ảo giải đáp thắc mắc cho sinh viên |
+| **Thời điểm** | 2016 |
+| **Case xảy ra chuyện gì?** | Hệ thống AI được tích hợp vào diễn đàn lớp học trực tuyến để tự động phản hồi các câu hỏi của sinh viên. Jill Watson hoạt động 24/7 và đạt hiệu suất cao như trợ giảng con người. |
+| **Stakeholder bị ảnh hưởng** | Sinh viên và giảng viên |
+| **Số liệu chính** | Đạt tỷ lệ chính xác từ 75% đến 97% |
+| **Trích nguồn ngắn** | Hệ thống Jill Watson đã chứng minh khả năng hỗ trợ đắc lực trong môi trường đại học với độ chính xác cao. |
+| **Nguồn 1** | Georgia Tech Research, 2024, https://research.gatech.edu/georgia-techs-jill-watson-outperforms-chatgpt-real-classrooms |
+| **Nguồn 2** | arXiv Paper, 2024, https://arxiv.org/html/2405.11070v1 |
+| **Ghi chú độ tin cậy** | Primary (nguồn chính từ tổ chức nghiên cứu) |
 ---
 
 ### Case Study 2: Hệ thống cảnh báo sớm (Ivy Tech Community College)
 
-| Tiêu chí | Nội dung chi tiết |
+| Field | Nội dung |
 | :--- | :--- |
-| **AI được dùng để làm gì?** | Sử dụng phân tích dự báo (Predictive Analytics) để xác định sớm sinh viên có nguy cơ trượt môn (mức điểm D) hoặc bỏ học. |
-| **Chuyện gì đã xảy ra?** | Nhà trường thực hiện can thiệp nhắm mục tiêu dựa trên các cảnh báo từ AI trong 2 tuần đầu học kỳ. |
-| **Ai bị ảnh hưởng?** | Sinh viên có nguy cơ bỏ học hoặc trượt môn. |
-| **Số liệu** | 98% sinh viên được can thiệp cải thiện điểm số lên mức C trở lên; giúp ngăn chặn 3.000 sinh viên trượt môn trong một kỳ. |
-| **Đủ dữ kiện để điền worksheet?** | Có, đây là ví dụ mạnh nhất về tác động thực tế tới kết quả học tập của sinh viên. |
-| **Nguồn uy tín** | [SiliconANGLE - Ivy Tech Community College Case Study](https://siliconangle.com/2017/11/10/ivy-tech-community-college-uses-predictive-analytics-improves-student-grades-pworld17/). |
+| **Tên case** | Project Early Success |
+| **Ngành** | Giáo dục |
+| **Tổ chức / sản phẩm** | Ivy Tech Community College |
+| **Use case AI** | Phân tích dự báo để hỗ trợ sinh viên |
+| **Thời điểm** | 2017 |
+| **Case xảy ra chuyện gì?** | Trường triển khai hệ thống phân tích dữ liệu để phát hiện sớm các sinh viên có nguy cơ trượt môn. Giảng viên nhận được cảnh báo để can thiệp kịp thời ngay từ đầu học kỳ. |
+| **Stakeholder bị ảnh hưởng** | Sinh viên và đội ngũ nhân sự nhà trường |
+| **Số liệu chính** | Giúp 3.000 sinh viên cải thiện kết quả học tập trong một kỳ |
+| **Trích nguồn ngắn** | Việc ứng dụng phân tích dự báo đã giúp cải thiện đáng kể tỷ lệ thành công của sinh viên. |
+| **Nguồn** | SiliconANGLE, 2017, https://siliconangle.com/2017/11/10/ivy-tech-community-college-uses-predictive-analytics-improves-student-grades-pworld17/ |
+| **Ghi chú độ tin cậy** | Primary (báo cáo trường hợp thực tế từ tổ chức) |
 
 # 3. Harm Map Worksheet
 
